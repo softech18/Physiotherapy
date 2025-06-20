@@ -34,7 +34,7 @@
 	          <div class="row no-gutters slider-text align-items-center justify-content-end">
 		          <div class="col-md-6 ftco-animate">
 		          	<div class="text w-100">
-			            <h1 class="mb-4">Welcome to Our Physiotherapy Centre</h1>
+			            <h1 class="mb-4">Welcome to our chiropractic centre</h1>
 			            <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
 			            <p><a href="#" class="btn btn-primary">Book an appointment</a></p>
 		            </div>
@@ -706,10 +706,9 @@
             	<h2 class="ftco-heading-2">Contact information</h2>
             	<div class="block-23 mb-3">
 	              <ul>
-	                <li><span class="icon fa fa-map-marker"></span><span class="text">Cuttack, Odisha</span></li>
+	                <li><span class="icon fa fa-map-marker"></span><span class="text">123 Main St, Your City, Your Country</span></li>
 	                <li><a href="#"><span class="icon fa fa-phone"></span><span class="text">+1 234 567 8901</span></a></li>
-	                <li><a href="#"><span class="icon fa fa-phone"></span><span class="text">7008448569</span></a></li>
-	                <li><a href="mailto:routasis411@gmail.com"><span class="icon fa fa-paper-plane"></span><span class="text">routasis411@gmail.com</span></a></li>
+	                <li><a href="#"><span class="icon fa fa-paper-plane"></span><span class="text">info@yourphysiotherapyclinic.com</span></a></li>
 	              </ul>
 	            </div>
             </div>

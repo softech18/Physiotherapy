@@ -1,14 +1,14 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>Chiropractic - Free Bootstrap 4 Template by Colorlib</title>
+    <title>Physiotherapy Clinic - Free Bootstrap 4 Template by Colorlib</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     
     <link href="https://fonts.googleapis.com/css?family=Lato:300,400,700&display=swap" rel="stylesheet">
 
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
- 
+ <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
     <link rel="stylesheet" href="css/animate.css">
     
     <link rel="stylesheet" href="css/owl.carousel.min.css">
@@ -34,7 +34,7 @@
 	          <div class="row no-gutters slider-text align-items-center justify-content-end">
 		          <div class="col-md-6 ftco-animate">
 		          	<div class="text w-100">
-			            <h1 class="mb-4">Welcome to our chiropractic centre</h1>
+			            <h1 class="mb-4">Welcome to Our Physiotherapy Centre</h1>
 			            <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
 			            <p><a href="#" class="btn btn-primary">Book an appointment</a></p>
 		            </div>
@@ -43,15 +43,16 @@
 	        </div>
 	      </div>
 
+	      <!-- HERO SLIDER -->
 	      <div class="slider-item" style="background-image:url(images/bg_2.jpg);">
-	      	<div class="overlay"></div>
+	        <div class="overlay"></div>
 	        <div class="container">
 	          <div class="row no-gutters slider-text align-items-center justify-content-end">
 		          <div class="col-md-6 ftco-animate">
 		          	<div class="text w-100">
-			            <h1 class="mb-4">Chiropractic care for the whole family</h1>
-			            <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-			            <p><a href="#" class="btn btn-primary">Book an appointment</a></p>
+			            <h1 class="mb-4">Expert Physiotherapy for Your Wellbeing</h1>
+			            <p>Personalized physiotherapy care to restore movement, relieve pain, and help you live your healthiest life. Our certified physiotherapists are dedicated to your recovery and wellness.</p>
+			            <p><a href="#" class="btn btn-primary">Book a Physiotherapy Appointment</a></p>
 		            </div>
 		          </div>
 		        </div>
@@ -67,8 +68,8 @@
     			<div class="col-md-12">
 	    			<div class="wrap-appointment d-md-flex">
 		    			<div class="col-md-8 bg-primary p-5 heading-section heading-section-white">
-		    				<span class="subheading">Booking an Appointment</span>
-		    				<h2 class="mb-4">Free Consultation</h2>
+		    				<span class="subheading">Book Your Physiotherapy Appointment</span>
+		    				<h2 class="mb-4">Free Initial Physiotherapy Consultation</h2>
 		    				<form action="#" class="appointment">
 		    					<div class="row justify-content-center">
 										<div class="col-md-6">
@@ -170,8 +171,8 @@
     	<div class="container">
     		<div class="row justify-content-center pb-5 mb-3">
           <div class="col-md-7 heading-section text-center ftco-animate">
-          	<span class="subheading">We offer Services</span>
-            <h2>Our Benefits</h2>
+          	<span class="subheading">Our Physiotherapy Services</span>
+            <h2>Benefits of Physiotherapy</h2>
           </div>
         </div>
     		<div class="row">
@@ -252,7 +253,7 @@
 				<div class="row no-gutters justify-content-center pb-5 mb-3">
           <div class="col-md-7 heading-section text-center ftco-animate">
           	<span class="subheading">Team &amp; Staff</span>
-            <h2>Our Experts Chiropractor / Therapist</h2>
+            <h2>Our Physiotherapists &amp; Staff</h2>
           </div>
         </div>
 				<div class="row no-gutters">
@@ -263,7 +264,7 @@
 							</div>
 							<div class="text pt-3 px-3 pb-4 text-center">
 								<h3>Lloyd Wilson</h3>
-								<span class="position mb-2">Chief Medical Officer</span>
+								<span class="position mb-2">Chief Physiotherapist</span>
 								<div class="faded">
 									<!-- <p>I am an ambitious workaholic, but apart from that, pretty simple person.</p> -->
 									<ul class="ftco-social text-center">
@@ -283,7 +284,7 @@
 							</div>
 							<div class="text pt-3 px-3 pb-4 text-center">
 								<h3>Rachel Parker</h3>
-								<span class="position mb-2">Chiropractor</span>
+								<span class="position mb-2">Senior Physiotherapist</span>
 								<div class="faded">
 									<!-- <p>I am an ambitious workaholic, but apart from that, pretty simple person.</p> -->
 									<ul class="ftco-social text-center">
@@ -303,7 +304,7 @@
 							</div>
 							<div class="text pt-3 px-3 pb-4 text-center">
 								<h3>Ian Smith</h3>
-								<span class="position mb-2">Clinical Chiropractic Assistant</span>
+								<span class="position mb-2">Clinical Physiotherapy Assistant</span>
 								<div class="faded">
 									<!-- <p>I am an ambitious workaholic, but apart from that, pretty simple person.</p> -->
 									<ul class="ftco-social text-center">
@@ -373,9 +374,9 @@
     			<div class="col-md-6 pr-md-5 py-md-5">
     				<div class="row justify-content-start py-5">
 		          <div class="col-md-12 heading-section ftco-animate">
-		          	<span class="subheading">Welcome to Chiropractic</span>
-		            <h2 class="mb-4">About Chiropractic</h2>
-		            <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.</p>
+		          	<span class="subheading">Welcome to Our Physiotherapy Clinic</span>
+		            <h2 class="mb-4">About Our Physiotherapy Practice</h2>
+		            <p>At [Your Clinic Name], our experienced physiotherapists use evidence-based treatments and a patient-centered approach to help you move better and live pain-free. Whether you’re recovering from injury, surgery, or managing chronic pain, we’re here to support your journey to better health.</p>
 		          </div>
 		        </div>
 						<div class="row ftco-counter pb-5" id="section-counter">
@@ -419,8 +420,8 @@
       <div class="container">
         <div class="row justify-content-center pb-5 mb-3">
           <div class="col-md-7 heading-section heading-section-white text-center ftco-animate">
-          	<span class="subheading">Testimonies</span>
-            <h2>Happy Clients &amp; Feedbacks</h2>
+          	<span class="subheading">Patient Testimonials</span>
+            <h2>What Our Clients Say About Our Physiotherapy Services</h2>
           </div>
         </div>
         <div class="row ftco-animate">
@@ -435,7 +436,7 @@
                     	<div class="user-img" style="background-image: url(images/person_1.jpg)"></div>
                     	<div class="pl-3">
 		                    <p class="name">Roger Scott</p>
-		                    <span class="position">Marketing Manager</span>
+		                    <span class="position">Software Engineer</span>
 		                  </div>
 	                  </div>
                   </div>
@@ -678,8 +679,8 @@
         <div class="row mb-5">
           <div class="col-md-6 col-lg">
             <div class="ftco-footer-widget py-4 py-md-5">
-              <h2 class="logo"><a href="#">Physical Therapy Clinic</a></h2>
-              <p>Empowering you to move better and live healthier through personalized physical therapy.</p>
+              <h2 class="logo"><a href="#">Physiotherapy Clinic</a></h2>
+              <p>Empowering you to move better and live healthier through expert physiotherapy care and personalized treatment plans.</p>
               <ul class="ftco-footer-social list-unstyled float-md-left float-lft mt-4">
                 <li class="ftco-animate"><a href="#"><span class="fa fa-twitter"></span></a></li>
                 <li class="ftco-animate"><a href="#"><span class="fa fa-facebook"></span></a></li>
@@ -691,12 +692,12 @@
             <div class="ftco-footer-widget ml-md-5 py-5">
               <h2 class="ftco-heading-2">Services</h2>
               <ul class="list-unstyled">
-                <li><a href="#" class="py-1 d-block"><span class="fa fa-check mr-3"></span>Orthopedic Rehabilitation</a></li>
-                <li><a href="#" class="py-1 d-block"><span class="fa fa-check mr-3"></span>Sports Injury Therapy</a></li>
+                <li><a href="#" class="py-1 d-block"><span class="fa fa-check mr-3"></span>Orthopedic Physiotherapy</a></li>
+                <li><a href="#" class="py-1 d-block"><span class="fa fa-check mr-3"></span>Sports Injury Rehabilitation</a></li>
                 <li><a href="#" class="py-1 d-block"><span class="fa fa-check mr-3"></span>Manual Therapy</a></li>
                 <li><a href="#" class="py-1 d-block"><span class="fa fa-check mr-3"></span>Therapeutic Exercise</a></li>
                 <li><a href="#" class="py-1 d-block"><span class="fa fa-check mr-3"></span>Pain Management</a></li>
-                <li><a href="#" class="py-1 d-block"><span class="fa fa-check mr-3"></span>Post-Surgical Rehab</a></li>
+                <li><a href="#" class="py-1 d-block"><span class="fa fa-check mr-3"></span>Post-Surgical Physiotherapy</a></li>
               </ul>
             </div>
           </div>
@@ -705,9 +706,10 @@
             	<h2 class="ftco-heading-2">Contact information</h2>
             	<div class="block-23 mb-3">
 	              <ul>
-	                <li><span class="icon fa fa-map-marker"></span><span class="text">123 Main St, Your City, Your Country</span></li>
+	                <li><span class="icon fa fa-map-marker"></span><span class="text">Cuttack, Odisha</span></li>
 	                <li><a href="#"><span class="icon fa fa-phone"></span><span class="text">+1 234 567 8901</span></a></li>
-	                <li><a href="#"><span class="icon fa fa-paper-plane"></span><span class="text">info@yourptclinic.com</span></a></li>
+	                <li><a href="#"><span class="icon fa fa-phone"></span><span class="text">7008448569</span></a></li>
+	                <li><a href="mailto:routasis411@gmail.com"><span class="icon fa fa-paper-plane"></span><span class="text">routasis411@gmail.com</span></a></li>
 	              </ul>
 	            </div>
             </div>

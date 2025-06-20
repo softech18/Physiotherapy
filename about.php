@@ -24,17 +24,21 @@
   <body>
   	<?php include 'header.php'; ?>
     <!-- END nav -->
-    <section class="hero-wrap hero-wrap-2" style="background-image: url('images/bg_2.jpg');" data-stellar-background-ratio="0.5">
-      <div class="overlay"></div>
-      <div class="container">
-        <div class="row no-gutters slider-text align-items-end">
-          <div class="col-md-9 ftco-animate pb-5">
-          	<p class="breadcrumbs mb-2"><span class="mr-2"><a href="index.html">Home <i class="fa fa-chevron-right"></i></a></span> <span>About us <i class="fa fa-chevron-right"></i></span></p>
-            <h1 class="mb-0 bread">About Us</h1>
-          </div>
-        </div>
+    <!-- HERO SECTION -->
+<section class="hero-wrap hero-wrap-2" style="background-image: url('images/bg_2.jpg');" data-stellar-background-ratio="0.5">
+  <div class="overlay"></div>
+  <div class="container">
+    <div class="row no-gutters slider-text align-items-end">
+      <div class="col-md-9 ftco-animate pb-5">
+        <p class="breadcrumbs mb-2">
+          <span class="mr-2"><a href="index.php">Home <i class="fa fa-chevron-right"></i></a></span>
+          <span>About Us <i class="fa fa-chevron-right"></i></span>
+        </p>
+        <h1 class="mb-0 bread">About Us</h1>
       </div>
-    </section>
+    </div>
+  </div>
+</section>
 
    	
     <section class="ftco-section ftco-no-pt ftco-no-pb">
@@ -50,9 +54,14 @@
     			<div class="col-md-6 pr-md-5 py-md-5">
     				<div class="row justify-content-start py-5">
 		          <div class="col-md-12 heading-section ftco-animate">
-		          	<span class="subheading">Welcome to Chiropractic</span>
-		            <h2 class="mb-4">About Chiropractic</h2>
-		            <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.</p>
+		          	<span class="subheading">Welcome to Our Physiotherapy Clinic</span>
+		            <h2 class="mb-4">About Our Physiotherapy Practice</h2>
+		            <p>
+		              At our Physiotherapy Clinic in Cuttack, Odisha, we are dedicated to helping you move better and live pain-free. Our experienced physiotherapists use evidence-based treatments and a patient-centered approach to address a wide range of musculoskeletal conditions. Whether you’re recovering from injury, surgery, or managing chronic pain, we’re here to support your journey to better health and wellness.
+		            </p>
+		            <p>
+		              We offer a comprehensive range of physiotherapy services, including manual therapy, electrotherapy, medical acupuncture, therapeutic exercise, and rehabilitation for sports injuries. Our mission is to empower you with the knowledge and care you need for a healthier, more active life.
+		            </p>
 		          </div>
 		        </div>
 						<div class="row ftco-counter pb-5" id="section-counter">
@@ -96,8 +105,10 @@
     	<div class="container">
     		<div class="row">
     			<div class="col-md-8">
-    				<h4>Chiropractic History</h4>
-    				<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos dignissimos magni tempora adipisci aliquam labore, consequuntur tenetur alias fugiat reiciendis eius omnis ea blanditiis temporibus rerum laborum nostrum, vel dolores!</p>
+    				<h4>Our Physiotherapy Journey</h4>
+    				<p>
+              Since our founding, we have helped thousands of patients regain their mobility and confidence. Our clinic combines modern physiotherapy techniques with compassionate care, ensuring every patient receives a personalized treatment plan tailored to their unique needs. Trust us to be your partner in recovery and lifelong wellness.
+            </p>
     			</div>
     		</div>
     	</div>
@@ -228,9 +239,10 @@
             	<h2 class="ftco-heading-2">Contact information</h2>
             	<div class="block-23 mb-3">
 	              <ul>
-	                <li><span class="icon fa fa-map-marker"></span><span class="text">203 Fake St. Mountain View, San Francisco, California, USA</span></li>
-	                <li><a href="#"><span class="icon fa fa-phone"></span><span class="text">+2 392 3929 210</span></a></li>
-	                <li><a href="#"><span class="icon fa fa-paper-plane"></span><span class="text">info@yourdomain.com</span></a></li>
+	                <li><span class="icon fa fa-map-marker"></span><span class="text">Cuttack, Odisha</span></li>
+	                <li><a href="#"><span class="icon fa fa-phone"></span><span class="text">+1 234 567 8901</span></a></li>
+	                <li><a href="#"><span class="icon fa fa-phone"></span><span class="text">7008448569</span></a></li>
+	                <li><a href="mailto:routasis411@gmail.com"><span class="icon fa fa-paper-plane"></span><span class="text">routasis411@gmail.com</span></a></li>
 	              </ul>
 	            </div>
             </div>

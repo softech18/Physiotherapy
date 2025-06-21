@@ -64,7 +64,7 @@
           <div class="col">
             <div class="top-wrap d-flex">
               <div class="icon d-flex align-items-center justify-content-center"><span class="fa fa-phone"></span></div>
-              <div class="text"><span>Call us</span><span>(+01) 123 456 7890</span></div>
+              <div class="text"><span>Call us</span><span>7008448569</span></div>
             </div>
           </div>
         </div>
